@@ -1,0 +1,4 @@
+0 Dumbbells
+1 Pushup
+2 Cycling
+3 Barbell
